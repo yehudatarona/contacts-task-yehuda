@@ -3,12 +3,12 @@
 Sever side creating users dB MongoDB Atlas and in node post add/delete/edit get ...
 
 1. To display all documents of users as json in DB use this link:
-  	https://ideodigital-contacts-task.herokuapp.com/users or
-	  http://localhost:3000/users 
+	https://ideodigital-contacts-task.herokuapp.com/users or
+	http://localhost:3000/users 
 2. To get the amount of users all in the dB use this link:
-      https://ideodigital-contacts-task.herokuapp.com/users/countContacts
-      Or
-      http://localhost:3000/users/countContacts
+	https://ideodigital-contacts-task.herokuapp.com/users/countContacts
+	Or
+	http://localhost:3000/users/countContacts
 3. To get a single user use domain/users/single/<id>
     e.g. https://ideodigital-contacts-task.herokuapp.com/users/single/5f456466e8c69336fc36002b
     To add or to edit or to delete users to/in/from the you need to used post method by use postman tool.
